@@ -4,8 +4,8 @@ puts "Enter 2nd number"
 b = gets.to_i
 
 puts "Result:"
+puts a * b
 
-print (a * b)
 
 
 

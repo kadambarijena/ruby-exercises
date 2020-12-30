@@ -4,4 +4,4 @@ puts "Enter Second Value:"
 b = gets.to_i
 
 puts "Result:"
-print a / b
+puts a / b
